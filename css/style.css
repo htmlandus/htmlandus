@@ -312,6 +312,10 @@ a:hover {
   font-size: 14px;
   font-family: inherit;
 }
+.contact-info{
+  color: #ffffff;
+  list-style: none;
+}
 
 /* ================================= */
 /* :::::: 5. Responsive CSS ::::::: */
